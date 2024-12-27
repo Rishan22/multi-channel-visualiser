@@ -56,7 +56,6 @@ python main.py
 The processed frames will display comparisons of the generated heatmaps.
 ![Description of Image](images/screenshot.png)
 
-![Description of Image](images/screenshot2.png)
 
 
 ## Contributing
