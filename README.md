@@ -32,7 +32,7 @@ cd multi-channel-visualizer
 2. Run the script:
 
 ```bash
-python main.py
+python vee2.py
 ```
 
 3. The script processes each frame and displays heatmaps for the following operations:
